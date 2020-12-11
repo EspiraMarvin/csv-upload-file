@@ -1,0 +1,14 @@
+Time,Type,Ref,Amount,MSISDN,Use,Data,FirstName,MiddleName,LastName,BillRefNumber,BusinessShortCode,OrgAccountBalance
+2020-10-07 00:00:00,Pay Bill,OJ70939JGO,20,2.547E+11,1,"{""wallet"":0,""transaction"":""20.00""}",MERCY,NYAMBURA,KINYUA,kameme4032 ,777892,2255864
+2020-10-07 00:00:02,Pay Bill,OJ71939KTB,40,2.54724E+11,2,"{""wallet"":0,""transaction"":20}",BILHA,NYAWIRA,KABUE,CAR 202020 WEB-STK,777892,2255884
+2020-10-07 00:00:09,Pay Bill,OJ77939IAD,20,2.54796E+11,1,"{""wallet"":0,""transaction"":""20.00""}",elizabeth,njeri,kariuki,4898 kameme ,777892,2255904
+2020-10-07 00:00:31,Pay Bill,OJ73939LBF,20,2.54721E+11,1,"{""wallet"":0,""transaction"":""20.00""}",DUNCAN,KAMAU,,21920,777892,2255984
+2020-10-07 00:00:44,Pay Bill,OJ78939PU2,20,2.54703E+11,1,"{""wallet"":0,""transaction"":""20.00""}",JANE,WANGECI,MERIA,2898,777892,2256004
+2020-10-07 00:01:01,Pay Bill,OJ74939TJU,125,2.54723E+11,2,"{""wallet"":85,""transaction"":20}",ERASTUS,MWANGI,MUTURI,7793.car.probox ,777892,2256129
+2020-10-07 00:01:53,Pay Bill,OJ7593A4A9,20,2.54718E+11,1,"{""wallet"":0,""transaction"":""20.00""}",Antony,Mbugua,Makanyanga,BIKE2358 ,777892,2256144
+2020-10-07 00:01:57,Pay Bill,OJ7293A0OG,20,2.5473E+11,1,"{""wallet"":0,""transaction"":""20.00""}",PETER,MWANIKI,MATISIMBA,982,777892,2256164
+2020-10-07 00:01:58,Pay Bill,OJ7093A0OY,20,2.54791E+11,1,"{""wallet"":0,""transaction"":""20.00""}",Stephen,muitha,waweru,1986,777892,2256164
+2020-10-07 00:02:11,Pay Bill,OJ7493A2GE,20,2.54705E+11,1,"{""wallet"":0,""transaction"":""20.00""}",JOYCE,WAIRIMU,KARIUKI,BIKE0403 ,777892,2256244
+2020-10-07 00:02:18,Pay Bill,OJ7593A639,20,2.54718E+11,1,"{""wallet"":0,""transaction"":""20.00""}",Joseph,Masyuko,Mutua,1847 BIKE ,777892,2256244
+2020-10-07 00:02:18,Pay Bill,OJ7493A9IK,20,2.54701E+11,1,"{""wallet"":0,""transaction"":""20.00""}",John,Kiarie,Wanjiru,bike 344 ,777892,2256244
+2020-10-07 00:02:32,Pay Bill,OJ7193ABTT,40,2.54724E+11,2,"{""wallet"":0,""transaction"":20}",Francis,Kabui,Mutathi,CAR 1455 ,777892,2256324
